@@ -1,2 +1,2 @@
 # DynamicProgramming
-This repository is for learning and coding dynamic programming.
+This repository is for learning and coding dynamic programming problems.
